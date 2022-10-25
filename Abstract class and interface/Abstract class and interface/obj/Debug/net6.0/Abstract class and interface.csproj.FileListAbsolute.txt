@@ -1,0 +1,5 @@
+C:\oop\Abstract class and interface\Abstract class and interface\obj\Debug\net6.0\Abstract class and interface.csproj.AssemblyReference.cache
+C:\oop\Abstract class and interface\Abstract class and interface\obj\Debug\net6.0\Abstract class and interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\oop\Abstract class and interface\Abstract class and interface\obj\Debug\net6.0\Abstract class and interface.AssemblyInfoInputs.cache
+C:\oop\Abstract class and interface\Abstract class and interface\obj\Debug\net6.0\Abstract class and interface.AssemblyInfo.cs
+C:\oop\Abstract class and interface\Abstract class and interface\obj\Debug\net6.0\Abstract class and interface.csproj.CoreCompileInputs.cache
