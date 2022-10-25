@@ -6,7 +6,9 @@ interface IGeographical_Object
     double IYcoordinate { get; set; }
     string Name { get; set; }
     string Description { get; set; }
-    void getInformation() { }
+    void getInformation() 
+    { 
+    }
 }
 
 class River : IGeographical_Object
